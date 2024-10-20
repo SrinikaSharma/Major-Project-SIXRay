@@ -1,5 +1,4 @@
-**The Triple Threat : YOLOv5, YOLOv8 & YOLOv9 
-Reinventing X-Ray Security**
+<h1 align="center">**The Triple Threat : YOLOv5, YOLOv8 & YOLOv9**</h1>
 
 In today's rapidly evolving security landscape, ensuring the safety and protection of public spaces and 
 transportation infrastructure is of utmost importance. Traditionally, this screening process has relied heavily on 
