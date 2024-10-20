@@ -17,16 +17,16 @@ The dataset utilized in this research is sourced from the SIXray dataset, curate
 range of items, including firearms, knives, tools, and other prohibited items, along with numerous negative 
 samples.
 ![image](https://github.com/user-attachments/assets/3152877e-7283-45c2-b0b1-225cf22867a5)
-                                Sample Dataset
+                              
 
-SIXray Dataset: 60000
-Positive (prohibited items): 7122
-• Gun: 2131
-• Knife: 1243
-• Wrench: 1104
-• Pliers: 1661
-• Scissors: 983
-Negative (non-prohibited items): 52878
+<br/>SIXray Dataset: 60000
+<br/>Positive (prohibited items): 7122
+<br/>• Gun: 2131
+<br/>• Knife: 1243
+<br/>• Wrench: 1104
+<br/>• Pliers: 1661
+<br/>• Scissors: 983
+<br/>Negative (non-prohibited items): 52878
 
 **Output**
 ![image](https://github.com/user-attachments/assets/40a46e16-4c59-4161-b3ae-81f185029d66)
